@@ -40,15 +40,15 @@ source FLOW-IT
 
 ##### 0.1.2.1.3. MSP430 Operating System
 
-###### 0.1.2.1.3.1. GNU Linux
+* GNU Linux
 
-###### 0.1.2.1.3.2. GNU Hurd
+* GNU Hurd
 
 ##### 0.1.2.1.4. MSP430 Distribution
 
-###### 0.1.2.1.4.1. GNU Debian
+* GNU Debian
 
-###### 0.1.2.1.4.2. GNU Fedora
+* GNU Fedora
 
 #### 0.1.2.2. OpenRISC
 
@@ -58,15 +58,15 @@ source FLOW-IT
 
 ##### 0.1.2.2.3. OpenRISC Operating System
 
-###### 0.1.2.2.3.1. GNU Linux
+* GNU Linux
 
-###### 0.1.2.2.3.2. GNU Hurd
+* GNU Hurd
 
 ##### 0.1.2.2.4. OpenRISC Distribution
 
-###### 0.1.2.2.4.1. GNU Debian
+* GNU Debian
 
-###### 0.1.2.2.4.2. GNU Fedora
+* GNU Fedora
 
 #### 0.1.2.3. RISC-V
 
@@ -1621,20 +1621,21 @@ sudo make install
 #### 7.7.2.2. Hardware Design Standards
 #### 7.7.2.3. Validation and Verification Standards
 #### 7.7.2.4. Hardware Archive Standards
-### 7.7.3. Hardware Design Data 
-#### 7.7.3.1. Hardware Requirements 
+### 7.7.3. Hardware Design Data
+#### 7.7.3.1. Hardware Requirements
 #### 7.7.3.2. Hardware Design Representation Data
-##### 7.7.3.2.1. Conceptual Design Data 
-##### 7.7.3.2.2. Detailed Design Data 
-###### 7.7.3.2.2.1. Top-Level Drawing 
-###### 7.7.3.2.2.2. Assembly Drawings
-###### 7.7.3.2.2.3. Installation Control Drawings 
-###### 7.7.3.2.2.4. Hardware/Software Interface Data
+##### 7.7.3.2.1. Conceptual Design Data
+##### 7.7.3.2.2. Detailed Design Data
+* Top-Level Drawing
+* Assembly Drawings
+* Installation Control Drawings
+* Hardware/Software Interface Data
+
 ### 7.7.4. Validation and Verification Data
 #### 7.7.4.1. Traceability Data
 #### 7.7.4.2. Review and Analysis Procedures
 #### 7.7.4.3. Review and Analysis Results
-#### 7.7.4.4. Test Procedures 
+#### 7.7.4.4. Test Procedures
 #### 7.7.4.5. Test Results
 ## 7.8. ADDITIONAL CONSIDERATIONS
 ### 7.8.1. Use of Previously Developed Hardware
