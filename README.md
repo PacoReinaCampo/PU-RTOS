@@ -1,6 +1,6 @@
 # PU-RTOS
 ## QueenField
 
-![QueenField](../master/icon.jpg)
+![QueenField](../main/icon.jpg)
 
 **Kernel for a Processing Unit**
